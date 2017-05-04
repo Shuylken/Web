@@ -243,7 +243,63 @@
        
         <!-- Footer -->
         <footer class="footer">
-            
+            <div class="content-bottom-widgets">        
+                <div class="container">
+                    <div class="row"> 
+                        <div class="flat-wrapper">
+                            <div class="ft-wrapper clearfix">
+                                <div class="footer-50">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <div class="counter">
+                                                <div class="counter-image"><i class="fa fa-building-o"></i></div>
+                                                <div class="numb-count" data-to="23" data-speed="3000" data-waypoint-active="yes">23</div>
+                                                <div class="counter-title">
+                                                    全球办事处
+                                                </div>
+                                            </div>
+                                        </div><!-- /.col-md-4 -->
+
+                                        <div class="col-md-4">
+                                            <div class="counter ft-style1">
+                                                <div class="counter-image"><i class="fa fa-group"></i></div>
+                                                <div class="numb-count" data-to="14" data-speed="3000" data-waypoint-active="yes">14</div>
+                                                <div class="counter-title">
+                                                    勤劳的人
+                                                </div>
+                                            </div>
+                                        </div><!-- /.col-md-4 -->
+
+                                        <div class="col-md-4">
+                                            <div class="counter ft-style2">
+                                                <div class="counter-image"><i class="fa fa-globe"></i></div>
+                                                <div class="numb-count" data-to="15" data-speed="3000" data-waypoint-active="yes">15</div>
+                                                <div class="counter-title">
+                                                    覆盖国家
+                                                </div>
+                                            </div>
+                                        </div><!-- /.col-md-4 -->
+                                    </div><!-- /.row -->
+                                </div><!-- /.footer-50 -->
+
+                                <div class="footer-50">
+                                    <div class="subscribe-form">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <input type="email" name="EMAIL" placeholder="请输入邮箱地址" required="">
+                                            </div><!-- /.col-md-8 -->
+
+                                            <div class="col-md-4">
+                                                <input type="submit" value="订阅">
+                                            </div><!-- /.col-md-4 -->
+                                        </div><!-- /.row -->
+                                    </div><!-- /.subscribe-form -->
+                                </div><!-- /.footer-50 -->
+                            </div><!-- /.ft-wrapper -->
+                        </div><!-- /.flat-wrapper -->
+                    </div><!-- /.row -->    
+                </div><!-- /.container -->
+            </div><!-- /.footer-widgets -->
 
             <div class="footer-widgets">
                 <div class="container">
