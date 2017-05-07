@@ -611,7 +611,7 @@ a.scheme:hover {
 	width: 276px;
 	height: 50px;		
 	float: left;
-	margin: 25px 0;	
+	margin: 15px 0;	
 	position: relative;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
@@ -700,7 +700,7 @@ a.scheme:hover {
 }
 
 .header-v2 .header-wrap {
-	width: 1110px;
+	width: 100%;
 	margin: 0 auto;
 	padding-left: 30px;
 	position: relative;
@@ -713,7 +713,6 @@ a.scheme:hover {
     position: absolute;
     left: 0;
     right: 0;
-    margin-top: -50px;
     -webkit-transform: translateZ(0px);
     -webkit-box-shadow: none;
        -moz-box-shadow: none;
@@ -3029,6 +3028,7 @@ blockquote {
 /* Revolution Slider
 -------------------------------------------------------------- */
 .tp-banner-container{
+	margin-top: 100px; 
 	max-height: 530px !important;
 	width: 100% !important;
 	position: relative;
