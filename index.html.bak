@@ -90,9 +90,6 @@
                         <div class="tp-caption sfr desc-slide center" data-x="40" data-y="240" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">                       
                             If low costs matter for your shipment, try our sea freight<br>services.
                         </div>    
-                        <div class="tp-caption sfl flat-button-slider bg-button-slider-32bfc0" data-x="40" data-y="370" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">阅读更多</a>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-chevron-right"></i></div>
-
-                        <div class="tp-caption sfr flat-button-slider" data-x="225" data-y="370" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">联系我们</a>&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-chevron-right"></i></div>
                     </li>
 
                     <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
@@ -194,10 +191,10 @@
                                 <div class="iconbox style1">
                                     <div class="box-header">
                                         <div class="box-icon"><i class="fa fa-mail-forward"></i></div>
-                                        <h5 class="box-title">特殊商品运输</h5>
+                                        <h5 class="box-title">危险品运输</h5>
                                     </div>
                                     <div class="box-content">
-                                    收化學品/藥物/墨水/硒鼓/植物提取液/植物提取物/電子煙。                              
+                                    Class2\3\4\5\6\8\9 例如：电池、化学品/电子烟。                              
                                     </div>
                                 </div>
                             </div><!-- /.item-three-column -->

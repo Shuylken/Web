@@ -97,7 +97,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h3 class="flat-title-section style1 style2"><span class="scheme">空运</span>，<span class="scheme">海运</span> ，<span class="scheme">仓储</span>，<span class="scheme">拖车</span>，<span class="scheme">报关/报检</span><span class="scheme">代理</span><span class="scheme">保险</span>以及其它增值服务</h3>
+                        <h3 class="flat-title-section style1 style2"><span class="scheme">空运、海运 、仓储、拖车、报关/报检代理保险以及其它增值服务</span><span class="scheme">保险</span>以及其它增值服务</h3>
                     </div><!-- /.col-md-12 -->
                 </div><!-- /.row -->
                 <div class="flat-divider d20px"></div>
@@ -173,7 +173,7 @@
                         </div><!-- /.flat-iconbox -->
                         <div class="flat-iconbox ">
                             <div class="box-header">
-                                <div class="box-icon"><img src="images/services/6.jpg" alt="images"></div>
+                                <div class="box-icon"><img src="images/services/5.jpg" alt="images"></div>
                                 <h5 class="box-title">增值服务</h5>
                             </div>
                             <div class="box-content">

@@ -36,18 +36,10 @@
     <![endif]-->
 </head>                                 
 <body class="header-sticky page-loading header-v2">   
-    <div class="loading-overlay">
-    </div>
-    
     <!-- Boxed -->
     <div class="boxed">
         <div class="site-header header-v2">
-            <div class="flat-top">
-                <div class="container">
-                    
-                </div><!-- /.container -->
-            </div><!-- /.flat-top -->
-          
+           
             <header id="header" class="header"> 
                 <div class="header-wrap">
                     <div id="logo" class="logo">
@@ -109,13 +101,13 @@
                 <div class="row">
                     
                     <div class="col-md-3">
-                        <h5 class="mag-top0px">宝源华丰总部</h5>
+                        
                         <p>
-                            <strong>全球运输，美国</strong><br>
-                            深圳市宝安区西乡大道宝源华丰总部经济大厦D321<br>
-                            Tel: +86 755 23322107<br>
-                            Fax: +86 755 23322167<br>
-                            Email: <a class="scheme" href="mailto:info@yourdomain.com">info@dap-int.com</a>
+                           
+                            <strong>深圳市宝安区西乡大道宝源华丰总部经济大厦D321</strong><br>
+                            <strong>Tel: +86 755 23322107</strong><br>
+                           <strong> Fax: +86 755 23322167</strong><br>
+                           <strong> Email: <a class="scheme" href="mailto:info@yourdomain.com">info@dap-int.com</strong></a>
                         </p>
                     </div><!-- /.col-md-3 -->
                 </div><!-- /.row -->
@@ -128,33 +120,9 @@
         <footer class="footer">
             <div class="footer-widgets">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="widge widget_text">
-                                <div class="textwidget">
-                                    <h2>canava - 商业, 运输, 物流 &amp; 仓库.</h2>
-                                </div>
-                            </div><!-- /.widget_text -->
-                        </div><!-- /.col-md-4 -->
-
-                        <div class="col-md-4">
-                            <div class="widget widget_nav_menu">
-                                <h3 class="widget-title">信息</h3>
-                                <div class="menu-footer-menu-container">
-                                    <ul class="menu-footer-menu">
-                                        <li><a href="index.html">首页 </a></li>
-                                        <li><a href="about.html">公司</a></li>
-                                        <li><a href="services.html">服务</a></li>
-                                        
-                                        <li><a href="contact.html">联系我们</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div><!-- /.col-md-4 -->
-
-                        <div class="col-md-4">
+                        <div class="col-md-12">
                             <div class="widget widget_text information">
-                                <h3 class="widget-title">信息我们</h3>
+                                <h3 class="widget-title">联系我们</h3>
                                 <div class="textwidget">
                                     <p><strong>地址：深圳市宝安区西乡大道宝源华丰总部经济大厦D321</strong></p>
                                     <p>
@@ -168,7 +136,6 @@
                                 </div>          
                             </div>
                         </div><!-- /.col-md-4 -->
-                    </div><!-- /.row -->
                 </div><!-- /.container -->
             </div><!-- /.footer-content -->
 
