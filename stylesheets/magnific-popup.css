@@ -292,6 +292,7 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
+  #logo {width:25%;}
   .mfp-img-mobile .mfp-image-holder {
     padding-left: 0;
     padding-right: 0; }
@@ -332,6 +333,7 @@ img.mfp-img {
     padding: 0; } }
 
 @media all and (max-width: 900px) {
+  #logo {width:50%;}
   .mfp-arrow {
     -webkit-transform: scale(0.75);
     transform: scale(0.75); }

@@ -36,16 +36,16 @@ $(document).ready(function() {
                         '<a href="#" class="sw-dark">WIDE</a>' +
                     '</div>'+                      
                     '<div class="sw-pattern pattern"><h3>Background pattern:</h3>'+
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/1.png"><img src="images/pattern/1.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/2.png"><img src="images/pattern/2.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/3.png"><img src="images/pattern/3.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/4.png"><img src="images/pattern/4.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/5.png"><img src="images/pattern/5.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/6.png"><img src="images/pattern/6.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/7.png"><img src="images/pattern/7.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/8.png"><img src="images/pattern/8.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/9.png"><img src="images/pattern/9.png" alt="image"></a>' +
-                        '<a href="#" class="sw-pattern" data-image="images/pattern/10.png"><img src="images/pattern/10.png" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/1.jpg"><img src="images/services/1.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/2.jpg"><img src="images/services/2.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/3.jpg"><img src="images/services/3.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/4.jpg"><img src="images/services/4.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/5.jpg"><img src="images/services/5.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/6.jpg"><img src="images/services/6.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/7.jpg"><img src="images/services/7.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/8.jpg"><img src="images/services/8.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/9.jpg"><img src="images/services/9.jpg" alt="image"></a>' +
+                        '<a href="#" class="sw-pattern" data-image="images/services/10.jpg"><img src="images/services/10.jpg" alt="image"></a>' +
                     '</div>'+               
                   '<div class="clearfix"></div>'+
                '</div>'+
